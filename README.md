@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Sharma
 - 👀 I’m interested in web developement and competitive programming
-- 🌱 I’m currently learning React js in frontend development 
-- 💞️ I’m looking to for an internship
+- 🌱 I’m full stack developer
+- 💞️ Making such projects which help the peoples
 - 📫 How to reach me through my social media handle
 - 😄 Pronouns: Harsh
 - ⚡ Fun fact: Coding has over 700 languages
